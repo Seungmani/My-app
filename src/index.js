@@ -8,7 +8,7 @@ import Library from './chapter_03/library';
 import Clock from './chapter_04/clock';
 import CommentList from './chapter_05/commentList';
 import NotificationList from './chapter_06/notificationList';
-import Accommodate from './chapter_07/accommodate';
+import Accommodate from './chapter_07/accommodate'; 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
